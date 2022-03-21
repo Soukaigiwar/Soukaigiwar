@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on get_next_line
-- 🌱 I’m currently learning C at 42SaoPaulo
+- 🔭 I’m currently working on Find new objectives
+- 🌱 I’m currently learning Web Development at Home
 
 ##
 

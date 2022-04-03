@@ -20,3 +20,6 @@
       <img align="center" alt="Soukaigiwar-MySQL" height="64" width="64" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=64&color=currentColor">
 -->
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="42 São Paulo-Libft" height="64" width="64" src="https://fastfixinformatica.com.br/gh_img/libft.png?size=64&color=currentColor">
+  </div>

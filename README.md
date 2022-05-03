@@ -26,3 +26,9 @@
   <img align="center" alt="42 São Paulo-Get Next Line" height="128" width="128" src="https://fastfixinformatica.com.br/gh_img/get_next_linee.png?size=128&color=currentColor">
   <img align="center" alt="42 São Paulo-Printf" height="128" width="128" src="https://fastfixinformatica.com.br/gh_img/ft_printfe.png?size=128&color=currentColor">
 </div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rocketseat" width="128" src="https://fastfixinformatica.com.br/gh_img/rocketseat.png?size=128&color=currentColor">
+  <img align="center" alt="stage2 - project1" width="128" src="https://fastfixinformatica.com.br/gh_img/stage_02_project_01.png?&color=currentColor">
+  <img align="center" alt="stage2 - project2" width="128" src="https://fastfixinformatica.com.br/gh_img/stage_02_project_02.png?&color=currentColor">
+</div>

@@ -30,5 +30,5 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rocketseat" width="128" src="https://fastfixinformatica.com.br/gh_img/rocketseat.png?size=128&color=currentColor">
   <img style="border-radius: 10px;" align="center" alt="stage2 - project1" height="128" src="https://fastfixinformatica.com.br/gh_img/stage_02_project_01.png?&color=currentColor">
-  <img style="border-radius: 10px;" align="center" alt="stage2 - project2" height="128" src="https://fastfixinformatica.com.br/gh_img/stage_02_project_02.png?&color=currentColor">
+  <img style="border-radius:10px;" align="center" alt="stage2 - project2" height="128" src="https://fastfixinformatica.com.br/gh_img/stage_02_project_02.png?&color=currentColor">
 </div>

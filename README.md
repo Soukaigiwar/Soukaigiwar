@@ -24,4 +24,5 @@
   <img align="center" alt="42 São Paulo" height="64" width="64" src="https://fastfixinformatica.com.br/gh_img/42sp.png?size=64&color=currentColor">
   <img align="center" alt="42 São Paulo-Libft" height="64" width="64" src="https://fastfixinformatica.com.br/gh_img/libfte.png?size=64&color=currentColor">
   <img align="center" alt="42 São Paulo-Get Next Line" height="64" width="64" src="https://fastfixinformatica.com.br/gh_img/get_next_linee.png?size=64&color=currentColor">
+  <img align="center" alt="42 São Paulo-Printf" height="64" width="64" src="https://fastfixinformatica.com.br/gh_img/ft_printfe.png?size=64&color=currentColor">
   </div>

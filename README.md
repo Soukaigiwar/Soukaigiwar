@@ -28,7 +28,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <a href="https://soukaigiwar.github.io/portifolio">
+  <a href="https://soukaigiwar.github.io/portifolio" target="_blank">
   <img align="center" alt="Rocketseat" width="128" src="https://fastfixinformatica.com.br/gh_img/rocketseat.png?size=128&color=currentColor">
   </a>
 </div>

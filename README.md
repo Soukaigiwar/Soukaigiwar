@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Find new objectives
-- 🌱 I’m currently learning Web Development at Home
+- 🌱 I’m currently learning Web Development
+- Front end - JavaScript, React, Html5 CSS
+
 
 ##
 

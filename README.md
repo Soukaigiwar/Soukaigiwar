@@ -25,9 +25,9 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="42 São Paulo" height="24" width="72" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*eliFAe2EAr55Oj_FuqB_yw.png">
-  <img align="center" alt="42 São Paulo-Libft" height="64" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
-  <img align="center" alt="42 São Paulo-Get Next Line" height="64" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
-  <img align="center" alt="42 São Paulo-Printf" height="64" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
+  <img align="center" alt="42 São Paulo-Libft" height="24" width="72" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*eliFAe2EAr55Oj_FuqB_yw.png">
+  <img align="center" alt="42 São Paulo-Get Next Line" height="24" width="72" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*eliFAe2EAr55Oj_FuqB_yw.png">
+  <img align="center" alt="42 São Paulo-Printf" height="24" width="72" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*eliFAe2EAr55Oj_FuqB_yw.png">
 </div>
   
 <div style="display: inline_block"><br>

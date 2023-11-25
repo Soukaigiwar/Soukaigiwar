@@ -27,6 +27,6 @@
   
 <div style="display: inline_block"><br>
   <a href="https://soukaigiwar.github.io/portifolio" target="_blank">Portifólio: 
-  <img align="center" alt="Rocketseat" width="128" src="https://fastfixinformatica.com.br/gh_img/rocketseat.png?size=128&color=currentColor">
+  <img align="center" alt="Rocketseat" width="64" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4sDskG-JEgBZyKK-COhA3Y8qW9GiSMdwMw&usqp=CAU">
   </a>
 </div>

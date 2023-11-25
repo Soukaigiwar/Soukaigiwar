@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Find new objectives
-- 🌱 I’m currently learning Web Development
-- Front end - JavaScript, React, Html5 CSS
+- 🌱 I’m Web Developer
+- Front end - React - JavaScript - Html 5 - CSS3
+- Back end - Node - PHP - C# - Rest API
 
 
 ##

@@ -24,10 +24,10 @@
   <img align="center" alt="Soukaigiwar-MySQL" height="64" width="64" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=64&color=currentColor">
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="42 São Paulo" height="128" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
-  <img align="center" alt="42 São Paulo-Libft" height="128" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
-  <img align="center" alt="42 São Paulo-Get Next Line" height="128" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
-  <img align="center" alt="42 São Paulo-Printf" height="128" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
+  <img align="center" alt="42 São Paulo" height="64" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
+  <img align="center" alt="42 São Paulo-Libft" height="64" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
+  <img align="center" alt="42 São Paulo-Get Next Line" height="64" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
+  <img align="center" alt="42 São Paulo-Printf" height="64" width="128" src="https://cdn.greatpages.com.br/www.42sp.org.br/1698611067/imagens/desktop/289143_1_20532.webp">
 </div>
   
 <div style="display: inline_block"><br>

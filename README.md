@@ -23,10 +23,9 @@
   <img align="center" alt="Soukaigiwar-PHP" height="64" width="64" src="https://icongr.am/devicon/php-original.svg?size=64&color=currentColor">
   <img align="center" alt="Soukaigiwar-MySQL" height="64" width="64" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=64&color=currentColor">
   <img align="center" alt="42 São Paulo" height="24" width="72" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*eliFAe2EAr55Oj_FuqB_yw.png">
+  <img align="center" alt="Rocketseat" width="128" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4sDskG-JEgBZyKK-COhA3Y8qW9GiSMdwMw&usqp=CAU">
 </div>
   
 <div style="display: inline_block"><br>
-  <a href="https://soukaigiwar.github.io/portifolio" target="_blank">Portifólio: 
-  <img align="center" alt="Rocketseat" width="128" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq4sDskG-JEgBZyKK-COhA3Y8qW9GiSMdwMw&usqp=CAU">
-  </a>
+  <a href="https://soukaigiwar.github.io/portifolio" target="_blank" style="text-decoration:none;">Portifólio</a>
 </div>
